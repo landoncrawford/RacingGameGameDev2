@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: d7c87ef9eeaf4fe4bbaa64b8dbabb386
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hauser Condensed
+  fontNames:
+  - Hauser Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1523f259797991040a4692bc29514aa4, type: 3}
+  - {fileID: 12800000, guid: a13e14593d6cb374aa7978810f628179, type: 3}
+  - {fileID: 12800000, guid: 5d2b3a1a1c9605b46ad5aee01ae2c663, type: 3}
+  - {fileID: 12800000, guid: ae34ff7e3c05007488cc8487830f0d3e, type: 3}
+  - {fileID: 12800000, guid: 96f33f4f4bc7d1f449f39ac4efe83368, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
